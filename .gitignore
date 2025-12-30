@@ -1,0 +1,14 @@
+# Data files (too large for git)
+Data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Keep build scripts but ignore caches
+
+# OS files
+.DS_Store
