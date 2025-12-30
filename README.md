@@ -2,7 +2,7 @@
 
 Interactive map showing how many "good weather days" different locations in Washington State experience during the dark months (October - April).
 
-**[View Live Map](https://YOUR_USERNAME.github.io/sundex)**
+**[View Live Map](https://dpaolella.github.io/sundex/)**
 
 ## What is a "Good Day"?
 
